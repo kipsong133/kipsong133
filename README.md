@@ -1,4 +1,4 @@
-### 안녕하세요 성장하고 있는 개발자 김우성입니다.👋
+### 안녕하세요 꿈에서도 코딩하는 개발자 김우성입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkipsong133)](https://hits.seeyoufarm.com)
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

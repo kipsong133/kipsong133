@@ -3,8 +3,6 @@
 
 블로그 : https://velog.io/@kipsong
 
-노션링크 : https://woosungsresume.notion.site/iOS-Developer-3f00b8584d2a41f593d7b3d23257d0ef
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkipsong133)](https://hits.seeyoufarm.com)
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

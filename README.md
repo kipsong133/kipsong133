@@ -1,7 +1,8 @@
 ### 안녕하세요. 커피 마시려고 개발하는 개발자 김우성 입니다.👋
 <br/><br/>
 
-블로그 : https://velog.io/@kipsong
+블로그: https://velog.io/@kipsong
+이력서: https://kimwoosung.oopy.io/
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkipsong133)](https://hits.seeyoufarm.com)
 <!--

@@ -3,7 +3,7 @@
 
 블로그: https://velog.io/@kipsong
 
-이력서: [https://kimwoosung.oopy.io/](https://unolog.notion.site/iOS-Flutter-e8be3b4b175e436e948609168c228c47)
+이력서: [PDF Link](https://drive.google.com/file/d/138vY_1S4OdGKlHWYzslueZkuwU4PfAJ_/view?usp=drive_link)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkipsong133)](https://hits.seeyoufarm.com)
 <!--
